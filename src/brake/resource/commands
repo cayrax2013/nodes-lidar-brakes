@@ -1,0 +1,10 @@
+# Список топиков
+ros2 topic list
+# Характеристики топика
+ros2 topic info /salut_fm
+# Слушаем сообщения топика
+ros2 topic echo /salut_fm
+# Публикуем сообщение в топик раз в секунду
+ros2 topic pub salut_fm std_msgs/msg/String "{data: Давай тормози}" --rate=1
+# Публикуем сообщение в топик 1 раз
+ros2 topic pub salut_fm std_msgs/msg/String "{data: Давай тормози}" --once
