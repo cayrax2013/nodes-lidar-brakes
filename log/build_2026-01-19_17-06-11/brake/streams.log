@@ -1,0 +1,21 @@
+[1.179s] Invoking command in '/home/vlad/ros2/src/brake': CONDA_PROMPT_MODIFIER=(base) DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/vlad/ros2/build/brake/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/vlad/ros2/install/brake/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/brake build --build-base /home/vlad/ros2/build/brake/build install --record /home/vlad/ros2/build/brake/install.log --single-version-externally-managed install_data
+[1.453s] running egg_info
+[1.473s] writing ../../build/brake/brake.egg-info/PKG-INFO
+[1.474s] writing dependency_links to ../../build/brake/brake.egg-info/dependency_links.txt
+[1.474s] writing entry points to ../../build/brake/brake.egg-info/entry_points.txt
+[1.474s] writing requirements to ../../build/brake/brake.egg-info/requires.txt
+[1.474s] writing top-level names to ../../build/brake/brake.egg-info/top_level.txt
+[1.515s] reading manifest file '../../build/brake/brake.egg-info/SOURCES.txt'
+[1.516s] writing manifest file '../../build/brake/brake.egg-info/SOURCES.txt'
+[1.517s] running build
+[1.517s] running build_py
+[1.517s] running install
+[1.523s] running install_lib
+[1.544s] running install_data
+[1.544s] running install_egg_info
+[1.566s] removing '/home/vlad/ros2/install/brake/lib/python3.12/site-packages/brake-0.0.0-py3.12.egg-info' (and everything under it)
+[1.566s] Copying ../../build/brake/brake.egg-info to /home/vlad/ros2/install/brake/lib/python3.12/site-packages/brake-0.0.0-py3.12.egg-info
+[1.568s] running install_scripts
+[1.703s] Installing brake script to /home/vlad/ros2/install/brake/lib/brake
+[1.704s] writing list of installed files to '/home/vlad/ros2/build/brake/install.log'
+[1.735s] Invoked command in '/home/vlad/ros2/src/brake' returned '0': CONDA_PROMPT_MODIFIER=(base) DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/vlad/ros2/build/brake/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/vlad/ros2/install/brake/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/brake build --build-base /home/vlad/ros2/build/brake/build install --record /home/vlad/ros2/build/brake/install.log --single-version-externally-managed install_data

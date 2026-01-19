@@ -1,0 +1,33 @@
+running egg_info
+creating ../../build/brake/brake.egg-info
+writing ../../build/brake/brake.egg-info/PKG-INFO
+writing dependency_links to ../../build/brake/brake.egg-info/dependency_links.txt
+writing requirements to ../../build/brake/brake.egg-info/requires.txt
+writing top-level names to ../../build/brake/brake.egg-info/top_level.txt
+writing manifest file '../../build/brake/brake.egg-info/SOURCES.txt'
+reading manifest file '../../build/brake/brake.egg-info/SOURCES.txt'
+writing manifest file '../../build/brake/brake.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/vlad/ros2/build/brake/build
+creating /home/vlad/ros2/build/brake/build/lib
+creating /home/vlad/ros2/build/brake/build/lib/brake
+copying brake/brake_node.py -> /home/vlad/ros2/build/brake/build/lib/brake
+copying brake/__init__.py -> /home/vlad/ros2/build/brake/build/lib/brake
+running install
+running install_lib
+creating /home/vlad/ros2/install/brake/lib/python3.12/site-packages/brake
+copying /home/vlad/ros2/build/brake/build/lib/brake/brake_node.py -> /home/vlad/ros2/install/brake/lib/python3.12/site-packages/brake
+copying /home/vlad/ros2/build/brake/build/lib/brake/__init__.py -> /home/vlad/ros2/install/brake/lib/python3.12/site-packages/brake
+byte-compiling /home/vlad/ros2/install/brake/lib/python3.12/site-packages/brake/brake_node.py to brake_node.cpython-312.pyc
+byte-compiling /home/vlad/ros2/install/brake/lib/python3.12/site-packages/brake/__init__.py to __init__.cpython-312.pyc
+running install_data
+creating /home/vlad/ros2/install/brake/share/ament_index
+creating /home/vlad/ros2/install/brake/share/ament_index/resource_index
+creating /home/vlad/ros2/install/brake/share/ament_index/resource_index/packages
+copying resource/brake -> /home/vlad/ros2/install/brake/share/ament_index/resource_index/packages
+copying package.xml -> /home/vlad/ros2/install/brake/share/brake
+running install_egg_info
+Copying ../../build/brake/brake.egg-info to /home/vlad/ros2/install/brake/lib/python3.12/site-packages/brake-0.0.0-py3.12.egg-info
+running install_scripts
+writing list of installed files to '/home/vlad/ros2/build/brake/install.log'

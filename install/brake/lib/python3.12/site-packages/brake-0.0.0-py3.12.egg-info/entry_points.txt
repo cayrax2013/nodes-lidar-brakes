@@ -1,0 +1,2 @@
+[console_scripts]
+brake = brake.brake_node:main

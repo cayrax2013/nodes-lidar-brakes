@@ -1,0 +1,35 @@
+[1.122s] Invoking command in '/home/vlad/ros2/src/lidar': CONDA_PROMPT_MODIFIER=(base) DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/vlad/ros2/build/lidar/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/vlad/ros2/install/lidar/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/lidar build --build-base /home/vlad/ros2/build/lidar/build install --record /home/vlad/ros2/build/lidar/install.log --single-version-externally-managed install_data
+[1.416s] running egg_info
+[1.416s] creating ../../build/lidar/lidar.egg-info
+[1.438s] writing ../../build/lidar/lidar.egg-info/PKG-INFO
+[1.438s] writing dependency_links to ../../build/lidar/lidar.egg-info/dependency_links.txt
+[1.438s] writing requirements to ../../build/lidar/lidar.egg-info/requires.txt
+[1.439s] writing top-level names to ../../build/lidar/lidar.egg-info/top_level.txt
+[1.439s] writing manifest file '../../build/lidar/lidar.egg-info/SOURCES.txt'
+[1.483s] reading manifest file '../../build/lidar/lidar.egg-info/SOURCES.txt'
+[1.483s] writing manifest file '../../build/lidar/lidar.egg-info/SOURCES.txt'
+[1.483s] running build
+[1.483s] running build_py
+[1.484s] creating /home/vlad/ros2/build/lidar/build
+[1.484s] creating /home/vlad/ros2/build/lidar/build/lib
+[1.484s] creating /home/vlad/ros2/build/lidar/build/lib/lidar
+[1.484s] copying lidar/__init__.py -> /home/vlad/ros2/build/lidar/build/lib/lidar
+[1.484s] copying lidar/lidar_node.py -> /home/vlad/ros2/build/lidar/build/lib/lidar
+[1.484s] running install
+[1.490s] running install_lib
+[1.515s] creating /home/vlad/ros2/install/lidar/lib/python3.12/site-packages/lidar
+[1.515s] copying /home/vlad/ros2/build/lidar/build/lib/lidar/__init__.py -> /home/vlad/ros2/install/lidar/lib/python3.12/site-packages/lidar
+[1.515s] copying /home/vlad/ros2/build/lidar/build/lib/lidar/lidar_node.py -> /home/vlad/ros2/install/lidar/lib/python3.12/site-packages/lidar
+[1.516s] byte-compiling /home/vlad/ros2/install/lidar/lib/python3.12/site-packages/lidar/__init__.py to __init__.cpython-312.pyc
+[1.516s] byte-compiling /home/vlad/ros2/install/lidar/lib/python3.12/site-packages/lidar/lidar_node.py to lidar_node.cpython-312.pyc
+[1.516s] running install_data
+[1.516s] creating /home/vlad/ros2/install/lidar/share/ament_index
+[1.517s] creating /home/vlad/ros2/install/lidar/share/ament_index/resource_index
+[1.517s] creating /home/vlad/ros2/install/lidar/share/ament_index/resource_index/packages
+[1.517s] copying resource/lidar -> /home/vlad/ros2/install/lidar/share/ament_index/resource_index/packages
+[1.517s] copying package.xml -> /home/vlad/ros2/install/lidar/share/lidar
+[1.517s] running install_egg_info
+[1.540s] Copying ../../build/lidar/lidar.egg-info to /home/vlad/ros2/install/lidar/lib/python3.12/site-packages/lidar-0.0.0-py3.12.egg-info
+[1.541s] running install_scripts
+[1.688s] writing list of installed files to '/home/vlad/ros2/build/lidar/install.log'
+[1.716s] Invoked command in '/home/vlad/ros2/src/lidar' returned '0': CONDA_PROMPT_MODIFIER=(base) DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/vlad/ros2/build/lidar/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/vlad/ros2/install/lidar/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/lidar build --build-base /home/vlad/ros2/build/lidar/build install --record /home/vlad/ros2/build/lidar/install.log --single-version-externally-managed install_data

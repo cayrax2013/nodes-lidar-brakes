@@ -1,0 +1,19 @@
+[1.043s] Invoking command in '/home/vlad/ros2/src/lidar': CONDA_PROMPT_MODIFIER=(base) DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/vlad/ros2/build/lidar/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/vlad/ros2/install/lidar/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/lidar build --build-base /home/vlad/ros2/build/lidar/build install --record /home/vlad/ros2/build/lidar/install.log --single-version-externally-managed install_data
+[1.325s] running egg_info
+[1.346s] writing ../../build/lidar/lidar.egg-info/PKG-INFO
+[1.346s] writing dependency_links to ../../build/lidar/lidar.egg-info/dependency_links.txt
+[1.346s] writing requirements to ../../build/lidar/lidar.egg-info/requires.txt
+[1.346s] writing top-level names to ../../build/lidar/lidar.egg-info/top_level.txt
+[1.387s] reading manifest file '../../build/lidar/lidar.egg-info/SOURCES.txt'
+[1.388s] writing manifest file '../../build/lidar/lidar.egg-info/SOURCES.txt'
+[1.388s] running build
+[1.388s] running build_py
+[1.388s] running install
+[1.396s] running install_lib
+[1.418s] running install_data
+[1.418s] running install_egg_info
+[1.440s] removing '/home/vlad/ros2/install/lidar/lib/python3.12/site-packages/lidar-0.0.0-py3.12.egg-info' (and everything under it)
+[1.440s] Copying ../../build/lidar/lidar.egg-info to /home/vlad/ros2/install/lidar/lib/python3.12/site-packages/lidar-0.0.0-py3.12.egg-info
+[1.441s] running install_scripts
+[1.580s] writing list of installed files to '/home/vlad/ros2/build/lidar/install.log'
+[1.607s] Invoked command in '/home/vlad/ros2/src/lidar' returned '0': CONDA_PROMPT_MODIFIER=(base) DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/vlad/ros2/build/lidar/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/vlad/ros2/install/lidar/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/lidar build --build-base /home/vlad/ros2/build/lidar/build install --record /home/vlad/ros2/build/lidar/install.log --single-version-externally-managed install_data

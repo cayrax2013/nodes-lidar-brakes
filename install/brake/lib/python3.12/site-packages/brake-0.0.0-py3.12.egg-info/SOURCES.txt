@@ -1,0 +1,16 @@
+package.xml
+setup.cfg
+setup.py
+../../build/brake/brake.egg-info/PKG-INFO
+../../build/brake/brake.egg-info/SOURCES.txt
+../../build/brake/brake.egg-info/dependency_links.txt
+../../build/brake/brake.egg-info/entry_points.txt
+../../build/brake/brake.egg-info/requires.txt
+../../build/brake/brake.egg-info/top_level.txt
+../../build/brake/brake.egg-info/zip-safe
+brake/__init__.py
+brake/brake_node.py
+resource/brake
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py

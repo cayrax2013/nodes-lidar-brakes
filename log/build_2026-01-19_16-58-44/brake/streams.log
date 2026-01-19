@@ -1,0 +1,35 @@
+[1.093s] Invoking command in '/home/vlad/ros2/src/brake': CONDA_PROMPT_MODIFIER=(base) DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/vlad/ros2/build/brake/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/vlad/ros2/install/brake/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/brake build --build-base /home/vlad/ros2/build/brake/build install --record /home/vlad/ros2/build/brake/install.log --single-version-externally-managed install_data
+[1.367s] running egg_info
+[1.367s] creating ../../build/brake/brake.egg-info
+[1.387s] writing ../../build/brake/brake.egg-info/PKG-INFO
+[1.388s] writing dependency_links to ../../build/brake/brake.egg-info/dependency_links.txt
+[1.388s] writing requirements to ../../build/brake/brake.egg-info/requires.txt
+[1.388s] writing top-level names to ../../build/brake/brake.egg-info/top_level.txt
+[1.388s] writing manifest file '../../build/brake/brake.egg-info/SOURCES.txt'
+[1.429s] reading manifest file '../../build/brake/brake.egg-info/SOURCES.txt'
+[1.430s] writing manifest file '../../build/brake/brake.egg-info/SOURCES.txt'
+[1.430s] running build
+[1.430s] running build_py
+[1.430s] creating /home/vlad/ros2/build/brake/build
+[1.430s] creating /home/vlad/ros2/build/brake/build/lib
+[1.430s] creating /home/vlad/ros2/build/brake/build/lib/brake
+[1.430s] copying brake/brake_node.py -> /home/vlad/ros2/build/brake/build/lib/brake
+[1.431s] copying brake/__init__.py -> /home/vlad/ros2/build/brake/build/lib/brake
+[1.431s] running install
+[1.437s] running install_lib
+[1.461s] creating /home/vlad/ros2/install/brake/lib/python3.12/site-packages/brake
+[1.461s] copying /home/vlad/ros2/build/brake/build/lib/brake/brake_node.py -> /home/vlad/ros2/install/brake/lib/python3.12/site-packages/brake
+[1.462s] copying /home/vlad/ros2/build/brake/build/lib/brake/__init__.py -> /home/vlad/ros2/install/brake/lib/python3.12/site-packages/brake
+[1.462s] byte-compiling /home/vlad/ros2/install/brake/lib/python3.12/site-packages/brake/brake_node.py to brake_node.cpython-312.pyc
+[1.463s] byte-compiling /home/vlad/ros2/install/brake/lib/python3.12/site-packages/brake/__init__.py to __init__.cpython-312.pyc
+[1.463s] running install_data
+[1.463s] creating /home/vlad/ros2/install/brake/share/ament_index
+[1.463s] creating /home/vlad/ros2/install/brake/share/ament_index/resource_index
+[1.463s] creating /home/vlad/ros2/install/brake/share/ament_index/resource_index/packages
+[1.463s] copying resource/brake -> /home/vlad/ros2/install/brake/share/ament_index/resource_index/packages
+[1.464s] copying package.xml -> /home/vlad/ros2/install/brake/share/brake
+[1.464s] running install_egg_info
+[1.485s] Copying ../../build/brake/brake.egg-info to /home/vlad/ros2/install/brake/lib/python3.12/site-packages/brake-0.0.0-py3.12.egg-info
+[1.486s] running install_scripts
+[1.624s] writing list of installed files to '/home/vlad/ros2/build/brake/install.log'
+[1.649s] Invoked command in '/home/vlad/ros2/src/brake' returned '0': CONDA_PROMPT_MODIFIER=(base) DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/vlad/ros2/build/brake/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/vlad/ros2/install/brake/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/brake build --build-base /home/vlad/ros2/build/brake/build install --record /home/vlad/ros2/build/brake/install.log --single-version-externally-managed install_data
